@@ -1,0 +1,135 @@
+Date : 25-8-2025
+Content Same but Keyword Change
+site : https://99pandit.com
+Traffic : 222K Ahref
+Traffic :262K Semrush
+DA Ahref : 35
+MOZ : DA-28 PA-42
+Backlinks : 4k plus
+
+https://99pandit.com/gallery/ < update page images not show
+
+InternalLinking Structrue Improve
+
+Update sitemap 
+https://99pandit.com/dashboard/ < not working url
+https://99pandit.com/pandit-listing/ < panditji profile not show
+https://99pandit.com/login/ < page content and button are not show
+https://99pandit.com/reset-password/ < remove form sitemap
+https://99pandit.com/user-profile/ < not working url
+https://99pandit.com/bangalore-2/ < redirecate main page
+https://99pandit.com/newhome/ < no content
+hindi words url update < loc-https://99pandit.com/post-sitemap.xml
+
+https://99pandit.com/?puja_name=holika-dahan-puja < no content 
+
+https://99pandit.com/App/astrology/kundali-matching-gun-milan < Upcoming Projecct
+
+
+Disallow: https://99pandit.com/App/puja/cart *deindex*
+
+
+https://shop.99pandit.com
+DA PA Moz : DA 28 PA 24
+Ahref DA : NA 
+Traffic : 574
+Site Type : Ecommerce Webite
+
+--------------------------------------------------------------------------------------------------
+Date : 26-8-2025
+Bengalore : https://99pandit.com/services/bangalore/
+Canonical Tag : Done
+Schema type : Local Business
+Meta Title : Good 
+Meta Description : Good
+Loading Speed Slow
+DA PA : DA 28 , PA 26
+DR : 35
+Page traffice : 153
+keyword rank : pandit near me 4 < volume 1.4k , pandit online bangalore 7 < volume 90 , online pandit in bangalore 8 < volume 100 , pandit for puja in bangalore 14 < volume 350
+
+
+Mumbai : https://99pandit.com/services/mumbai/
+Canonical Tag : Done
+Schema type : Local Business
+Meta Title : Good 
+Meta Description : Good
+Loading Speed Slow
+Page Traffice : 66
+DA PA : DA 28 , PA 26
+DR : 35
+Keyword Rank : pandit ji near me 9 < Volume 1.1k , bhatji near me 7 < Volume 150 , pandit for puja in mumbai 9 < Volume 100 , pandit in mumbai 9 < Volume 40
+
+Profil Creation 
+Artile Post 
+
+--------------------------------------------------------------------------------------------------------
+Date : 27-8-2025
+
+Article Site : https://www.articleted.com/ < Self
+Submit For review : https://articlebiz.com/ 
+Site : 	https://www.storeboard.com/ < Self
+Site : https://sooperarticles.com/ < Self
+Site : https://www.selfgrowth.com < Self
+
+
+Remove : site:https://99pandit.com/wp
+
+-------------------------------------------------------------------------------------------------------------
+Date : 28-8-2025
+
+city service some urls not found a local schema tags
+
+-------------------------------------------------------------------------------------------------------------
+Date : 29-8-2025
+author
+Author@1234
+
+Puja services Pages : CanonicaL Tag & Description Not Found
+1. https://99pandit.com/service/  : Improve a Meta Title & Description
+2. Improve a Service Page On-Page
+3. https://99pandit.com/blog/  : Add a Description
+4. https://99pandit.com/refund-policy/ : H1 & Description missing
+5. https://99pandit.com/privacy-policy/ : H1 & Description missing
+6. https://99pandit.com/terms-and-conditions/ : H1 & Description missing
+7. https://99pandit.com/contact-us/ :  H1 & Description missing
+8. https://99pandit.com/gallery/ : H1 & Description Missing
+9. https://99pandit.com/App/e-puja : Canonical Tag & Robots Tags Not Found 
+10. https://99pandit.com/App/group-puja : Meta title & Canonical Tag Update 
+11. https://99pandit.com/App/astrology : Meta Title & Canonical Tag Update 
+12. https://99pandit.com/App/login : Meta Title & Canoical Tag Not Found
+13. https://99pandit.com/service/krishna-janmashtami-puja/ : Like This Pages On-Page Not Proper Not Setup
+14. https://99pandit.com/why-choose-us/ : Meta Description Not Found
+15. https://99pandit.com/pandit-listing/ : Meta Description Not Found & Pandit Profiles Not Show 
+16. https://99pandit.com/reset-password/ : Reset Button Not Found
+17. https://99pandit.com/mumbai/ : Content Not Found
+18. https://99pandit.com/thank-you/ : ?
+19. https://99pandit.com/chant/ : Canonical Not Found 
+20. https://99pandit.com/chant/maha-mrityunjay-mantra-jaap : Canonical & Robots Tag Not Found
+
+-----------------------------------------------------------------------------------------------------------------
+Date : 1-9-2025
+Guest Post & Link Insert Apporach
+Mumbai & Bangalore Pages On-Page Check
+https://99pandit.com/blog/rishi-panchami/  : Meta Title , Description & Canoincal Tag Not Found
+https://99pandit.com/bangalore/hosur-road/north-indian-pandit-in-hosur-road-bangalore/ : Meta Description Missing
+https://99pandit.com/bangalore/rajajinagar/north-indian-pandit-in-rajajinagar-bangalore/ : Meta Description Missing
+https://99pandit.com/bangalore/lalbagh-road/north-indian-pandit-in-lalbagh-road-bangalore/ : Meta Description Missing
+https://99pandit.com/bangalore/frazer-town/north-indian-pandit-in-frazer-town-bangalore/ : Meta Description Missing
+https://99pandit.com/bangalore/sadashivanagar/north-indian-pandit-in-sadashivanagar-bangalore/ : Meta Description Missing
+https://99pandit.com/bangalore/marathalli/north-indian-pandit-in-marathalli-bangalore/
+https://99pandit.com/bangalore/mathikere/north-indian-pandit-in-mathikere-bangalore/
+https://99pandit.com/bangalore/hsr-layout/north-indian-pandit-in-hsr-layout-bangalore/  Meta Title & Description Update (URL Check)
+https://99pandit.com/bangalore/koramangala/north-indian-pandit-in-koramangala-bangalore/
+https://99pandit.com/bangalore/electronic-city/north-indian-pandit-in-electronic-city-bangalore/  Meta Description Missing
+https://99pandit.com/bangalore/malleshwaram/north-indian-pandit-in-malleshwaram-bangalore/
+https://99pandit.com/bangalore/kengeri/north-indian-pandit-in-kengeri-bangalore/
+https://99pandit.com/bangalore/indira-nagar/north-indian-pandit-in-indira-nagar-bangalore/
+https://99pandit.com/blog/pandit-for-chandi-homam-in-bangalore Meta Title , Description & Canonical MIssing
+https://99pandit.com/bangalore/bannerghatta-road/north-indian-pandit-in-bannerghatta-road-bangalore/  Meta Description Missing
+https://99pandit.com/bangalore/jayanagar/north-indian-pandit-in-jayanagar-bangalore/  Meta Description Missing
+https://99pandit.com/who-is-the-best-north-indian-pandit-in-bangalore-for-marriage/ Remove a Sitemap
+https://99pandit.com/bangalore/kengeri/  Remove a Sitemap Redireaction > Home Page
+https://99pandit.com/bangalore/bannerghatta-road/  Remove a Sitemap Redireaction > Home Page
+https://99pandit.com/pricing/   Meta Description Missing
+
