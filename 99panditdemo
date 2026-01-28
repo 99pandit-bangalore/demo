@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Pandit for Puja in Whitefield Bangalore</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<style>
+:root{
+--primary:#FF7000;
+--secondary:#800000;
+--light:#FFF5EB;
+--dark:#333;
+}
+
+body{
+margin:0;
+font-family:system-ui, sans-serif;
+background:#fff;
+color:var(--dark);
+line-height:1.7;
+}
+
+/* Header */
+header{
+position:sticky;
+top:0;
+background:#fff;
+padding:15px 6%;
+display:flex;
+justify-content:space-between;
+align-items:center;
+box-shadow:0 4px 15px rgba(0,0,0,.08);
+z-index:999;
+}
+
+.logo{
+font-size:26px;
+font-weight:800;
+color:var(--primary);
+}
+
+.call-btn{
+background:var(--secondary);
+color:#fff;
+padding:12px 24px;
+border-radius:30px;
+text-decoration:none;
+font-weight:700;
+}
+
+/* Hero */
+.hero{
+background:linear-gradient(rgba(0,0,0,.65),rgba(0,0,0,.65)),
+url("https://images.unsplash.com/photo-1604014237800-1c9102c219da?auto=format&fit=crop&w=1500&q=80")
+center/cover;
+padding:90px 6%;
+display:grid;
+grid-template-columns:1.2fr 1fr;
+gap:40px;
+}
+
+.hero-text{color:#fff;}
+.hero-text h1{font-size:3rem;margin-bottom:10px;}
+.hero-text p{font-size:1.1rem;}
+
+.booking-card{
+background:#fff;
+padding:35px;
+border-radius:16px;
+box-shadow:0 15px 40px rgba(0,0,0,.35);
+}
+
+.booking-card h2{
+color:var(--secondary);
+text-align:center;
+margin-bottom:8px;
+}
+
+.form-subtitle{
+text-align:center;
+font-size:14px;
+color:#666;
+margin-bottom:20px;
+}
+
+.form-group{margin-bottom:15px;}
+
+label{
+font-size:14px;
+font-weight:600;
+display:block;
+margin-bottom:6px;
+}
+
+.input-wrap{
+display:flex;
+align-items:center;
+border:1px solid #ddd;
+border-radius:10px;
+padding:0 12px;
+background:#fafafa;
+}
+
+.input-wrap input,
+.input-wrap select{
+border:none;
+outline:none;
+width:100%;
+padding:14px 8px;
+font-size:15px;
+background:transparent;
+}
+
+.btn-book{
+width:100%;
+padding:16px;
+background:linear-gradient(135deg,#FF7000,#ff9b3d);
+color:#fff;
+font-size:1.05rem;
+font-weight:800;
+border:none;
+border-radius:50px;
+cursor:pointer;
+}
+
+.form-trust{
+margin-top:10px;
+font-size:13px;
+color:#777;
+text-align:center;
+}
+
+@media(max-width:768px){
+.hero{grid-template-columns:1fr;}
+.hero-text h1{font-size:2rem;}
+}
+</style>
+</head>
+
+<body>
+
+<header>
+  <div class="logo">99Pandit</div>
+  <a href="tel:+919999999999" class="call-btn">Call Now</a>
+</header>
+
+<section class="hero">
+  <div class="hero-text">
+    <h1>Pandit for Puja in Whitefield Bangalore</h1>
+    <p>Book experienced Vedic Pandits for all Hindu pujas at your home.</p>
+  </div>
+
+  <!-- FORM -->
+  <div class="booking-card">
+    <h2>Book a Pandit</h2>
+    <p class="form-subtitle">100% Verified & Trusted Pandits</p>
+
+    <form action="submit.php" method="POST">
+      <div class="form-group">
+        <label>Your Name</label>
+        <div class="input-wrap">
+          <input type="text" name="name" required>
+        </div>
+      </div>
+
+      <div class="form-group">
+        <label>Mobile Number</label>
+        <div class="input-wrap">
+          <input type="tel" name="phone" required>
+        </div>
+      </div>
+
+      <div class="form-group">
+        <label>Select Puja</label>
+        <div class="input-wrap">
+          <select name="puja" required>
+            <option value="">Select Puja</option>
+            <option>Saraswati Puja</option>
+            <option>Satyanarayan Puja</option>
+            <option>Griha Pravesh</option>
+            <option>Havan</option>
+          </select>
+        </div>
+      </div>
+
+      <button class="btn-book">Book Now</button>
+    </form>
+
+    <div class="form-trust">No spam • Instant confirmation</div>
+  </div>
+</section>
+
+</body>
+</html>
